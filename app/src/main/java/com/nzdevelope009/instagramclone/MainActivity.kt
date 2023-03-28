@@ -13,6 +13,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.nzdevelope009.instagramclone.ui.theme.InstagramCloneTheme
 import dagger.hilt.android.AndroidEntryPoint
 
+
+// 21814156-015 - B
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
